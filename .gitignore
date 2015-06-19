@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -42,3 +43,7 @@ node_modules
 Network Trash Folder
 Temporary Items
 .apdisk
+=======
+.DS_Store
+node_modules
+>>>>>>> origin/master
